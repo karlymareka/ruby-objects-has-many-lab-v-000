@@ -23,5 +23,4 @@ class Author
     
   end 
 
-
 end 
