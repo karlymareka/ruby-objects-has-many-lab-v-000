@@ -17,6 +17,6 @@ class Song
   end 
   
 end
- drake = Artist.new('Drake')
-      song.artist = drake
-      expect(song.artist_name).to eq('Drake')
+ #drake = Artist.new('Drake')
+     # song.artist = drake
+      #expect(song.artist_name).to eq('Drake')
