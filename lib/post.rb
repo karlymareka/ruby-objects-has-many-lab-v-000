@@ -10,6 +10,9 @@ class Post
   
   def self.all 
     @@all 
+  end
+  
+  def author 
   end 
   
 end 
